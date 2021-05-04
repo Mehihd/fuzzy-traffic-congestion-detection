@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Python replication of: An intelligent traffic congestion detection approach based on fuzzy inference system"
+type: software
+authors:
+  - family-names: Amini
+    given-names: Mehran
+preferred-citation:
+  type: conference-paper
+  title: "An intelligent traffic congestion detection approach based on fuzzy inference system"
+  authors:
+    - family-names: Amini
+      given-names: Mehran
+    - family-names: Hatwagner
+      given-names: Miklos F.
+    - family-names: Mikulai
+      given-names: Gergely Cs.
+    - family-names: Koczy
+      given-names: Laszlo T.
+  collection-title: "2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI)"
+  publisher:
+    name: IEEE
+  year: 2021
+  month: 5
+  start: 97
+  end: 104
+  doi: 10.1109/SACI51354.2021.9465637
